@@ -1,2 +1,2 @@
-# Misi-n-Frontend
+# Misión-Frontend
 Practicas realizadas durante la misión Frontend
